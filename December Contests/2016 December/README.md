@@ -1,1 +1,2 @@
-# 2016 December Solutions
+# 2016 December Bronze Problem Solutions
+1. Problem 1
